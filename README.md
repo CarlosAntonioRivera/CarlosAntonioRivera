@@ -1,6 +1,6 @@
 ## ¡Hola! Soy Carlos Rivera 👋
 
-Soy Tecnólogo en Desarrollo de Sistemas Informáticos y próximamente Ingeniero de Sistemas, cuento con una sólida base en desarrollo web. Me encanta el diseño y la creación de interfaces de usuario intuitivas, atractivas y funcionales. Tengo experiencia en el uso de tecnologías como HTML, CSS, así como en el manejo de frameworks como Bootstrap y Tailwind CSS para crear experiencias web responsivas. Asimismo, cuento con un amplio dominio de JavaScript y experiencia en el desarrollo de aplicaciones web dinámicas utilizando React. Además, tengo gran conocimiento en el manejo de bases de datos, destacando tecnologías como MySQL y PostgreSQL.
+Ingeniero de Sistemas y Tecnólogo en Desarrollo de Sistemas Informáticos, cuento con una sólida base en desarrollo web. Me encanta el diseño y la creación de interfaces de usuario intuitivas, atractivas y funcionales. Tengo experiencia en el uso de tecnologías como HTML, CSS, así como en el manejo de frameworks como Bootstrap y Tailwind CSS para crear experiencias web responsivas. Asimismo, cuento con un amplio dominio de JavaScript y experiencia en el desarrollo de aplicaciones web dinámicas utilizando React. Además, tengo gran conocimiento en el manejo de bases de datos, destacando tecnologías como MySQL y PostgreSQL.
 
 ### 🎯 &nbsp;Habilidades
 
